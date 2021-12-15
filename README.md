@@ -3,7 +3,7 @@ kodluyoruz eğitimi kapsamında açtığım ilk depo
 
 # Installation
 ```
-https://github.com/Renov4ted/kodluyoruzilkrepo
+https://github.com/Renov4ted/Kodluyoruz-Front-End
 ```
 # Usage 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
