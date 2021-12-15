@@ -11,7 +11,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 <h3> Linux için
 
 ```
-cd kodluyoruzilkrepo
+cd Kodluyoruz-Front_End
 code .
 ```
 # Contributing
