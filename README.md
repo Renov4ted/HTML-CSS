@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# Kodluyoruz-Front-End
 kodluyoruz eğitimi kapsamında açtığım ilk depo
 
 # Installation
