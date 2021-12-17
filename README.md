@@ -11,7 +11,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 <h3> Linux için
 
 ```
-cd Kodluyoruz-Front_End
+cd Kodluyoruz-Front-End
 code .
 ```
 # Contributing
