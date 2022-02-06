@@ -1,5 +1,5 @@
 # Kodluyoruz-Front-End
-kodluyoruz eğitimi kapsamında açtığım ilk depo
+kodluyoruz Front-End eğitimi kapsamında Yaptığım, Yapacağım tüm ödevlerin, projelerin olduğu repo
 
 # Installation
 ```
