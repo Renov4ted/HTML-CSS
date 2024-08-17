@@ -1,0 +1,27 @@
+#sekmeler {
+color: #202021;
+font-size:16px;
+}
+
+.h1gold {color: goldenrod;
+        font-size:30px;
+}
+
+.fs-20-ita {
+    font-size:20px;
+    font-style: italic;
+}
+.h1pink {color: palevioletred;
+        font-size:30px ;
+ }
+
+ .roboto {font-family: 'Roboto Condensed', sans-serif;
+     font-size:20px;
+}
+.road-fs {font-family: 'Road Rage', cursive;
+          font-size:45px;
+}
+
+.delius-fs {font-family: 'Delius Unicase', cursive;
+    font-size:20px;
+}
